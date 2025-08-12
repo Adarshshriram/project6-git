@@ -16,39 +16,39 @@ Deploy a simple HTML website using **GitHub Pages**.
 
 ## Create a GitHub Repository
 
-Go to GitHub
-Click New Repository
-Name it something like my-static-website
-Keep it public.
+- Go to GitHub
+- Click New Repository
+- Name it something like my-static-website
+- Keep it public.
 
 ## Push Files to GitHub
 
-git clone " Repo link "
-git add .
-git commit -m " add all files"
-git push
+- git clone " Repo link "
+- git add .
+- git commit -m " add all files"
+- git push
 
 ## Enable GitHub Pages
 
-Go to Settings → Pages
-Under Source, select:
-    Branch: main
-    Folder: / (root)
-Click Save
+- Go to Settings → Pages
+- Under Source, select:
+   -  Branch: main
+   -  Folder: / (root)
+- Click Save
 
 ## Access the Website
 
 GitHub will give you a live URL like:
 
-https://adarshshriram.github.io/project6-git/
+- https://adarshshriram.github.io/project6-git/
 
 
 ## outcome
 
 After completing this project, you will:
 
-Understand how to deploy static websites for free using GitHub Pages.
-Be able to share your live website link with anyone.
+- Understand how to deploy static websites for free using GitHub Pages.
+- Be able to share your live website link with anyone.
 
 # Screen Shot
 
