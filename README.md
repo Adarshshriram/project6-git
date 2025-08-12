@@ -18,7 +18,7 @@ Deploy a simple HTML website using **GitHub Pages**.
 
 - Go to GitHub
 - Click New Repository
-- Name it something like my-static-website
+- Name it something " project6-git"
 - Keep it public.
 
 ## Push Files to GitHub
